@@ -23,7 +23,9 @@ Os dados foram fornecidos pela Indicium, e estão disponíveis para download [aq
 ## Notebooks
 Nesse repositório você encontrará dois notebooks, um deles destinado a **EDA(Análise Exploratória dos Dados)**, e outro destinado ao **modelagem(ML)**.
 
-[**EDA.ipynb**](https://github.com/reisricardo1/desafioDC/new/master/EDA.ipynb): nesse notebook você encontrará análise exploratória dos dados, assim como a solução das questões de negócio propostas pelo desafio; a formulação e teste de três hipóteses de negócio adicionais.
+[**EDA.ipynb**](https://github.com/reisricardo1/desafioDC/new/master/EDA.ipynb): 
+
+Nesse notebook você encontrará análise exploratória dos dados, assim como a solução das questões de negócio propostas pelo desafio; a formulação e teste de três hipóteses de negócio adicionais.
 
 #### Hipóteses:
 **Hipótese 1:** Carros com blindagem tendem a ter um preço mais alto.

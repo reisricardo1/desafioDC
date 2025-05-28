@@ -40,7 +40,9 @@ Nesse repositório você encontrará dois notebooks, um deles destinado a **EDA(
 
 **Pergunta 3:** Qual o melhor estado para se comprar carros que ainda estejam dentro da garantia de fábrica e por quê?
 
-[**modelagem.ipynb**](https://github.com/reisricardo1/desafioDC/new/master/modelagem.ipynb): Neste notebook, você encontrará todo o processo de pré-processamento, modelagem de dados e treinamento de nossos modelos preditivos.
+[**modelagem.ipynb**](https://github.com/reisricardo1/desafioDC/new/master/modelagem.ipynb): 
+
+Neste notebook, você encontrará todo o processo de pré-processamento, modelagem de dados e treinamento de nossos modelos preditivos.
 
 ------------
 

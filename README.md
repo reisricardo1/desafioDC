@@ -17,13 +17,13 @@ Analisar os dados disponíveis para responder de forma assertiva às perguntas d
 
 ### **Dados:**
 
-Os dados foram fornecidos pela Indicium, e estão disponíveis para download [aqui](https://github.com/reisricardo1/desafioDC/new/master/data/cars_training.csv) no repositório.
+Os dados foram fornecidos pela Indicium, e estão disponíveis para download [aqui](https://github.com/reisricardo1/desafioDC/blob/master/data/cars_training.csv) no repositório.
 
 -----------------------
 ## Notebooks
 Nesse repositório você encontrará dois notebooks, um deles destinado a **EDA(Análise Exploratória dos Dados)**, e outro destinado ao **modelagem(ML)**.
 
-[**EDA.ipynb**](https://github.com/reisricardo1/desafioDC/new/master/EDA.ipynb): 
+[**EDA.ipynb**](https://github.com/reisricardo1/desafioDC/blob/master/EDA.ipynb): 
 
 Nesse notebook você encontrará análise exploratória dos dados, assim como a solução das questões de negócio propostas pelo desafio; a formulação e teste de três hipóteses de negócio adicionais.
 
@@ -42,7 +42,7 @@ Nesse notebook você encontrará análise exploratória dos dados, assim como a 
 
 **Pergunta 3:** Qual o melhor estado para se comprar carros que ainda estejam dentro da garantia de fábrica e por quê?
 
-[**modelagem.ipynb**](https://github.com/reisricardo1/desafioDC/new/master/modelagem.ipynb): 
+[**modelagem.ipynb**](https://github.com/reisricardo1/desafioDC/blob/master/modelagem.ipynb): 
 
 Neste notebook, você encontrará todo o processo de pré-processamento, modelagem de dados e treinamento de nossos modelos preditivos.
 
